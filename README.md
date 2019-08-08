@@ -63,3 +63,8 @@ Added features X, Y, and Z.
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+
+
+## Guide
+
+https://hackmd.io/@rupeshtiwari/**B16bBe97r**
